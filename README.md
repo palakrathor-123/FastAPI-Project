@@ -43,12 +43,12 @@ Secured using API Keys. The system validates a specific X-API-KEY header before 
 Each module contains 6 operations to handle data efficiently:
 
 ### Users Resource
-POST /users/ - Create a new user record.
-GET /users/ - List all registered users.
-GET /users/{id} - Retrieve a specific user by ID.
-PUT /users/{id} - Perform a full update on a user record.
-PATCH /users/{id} - Perform a partial update (e.g., updating just the email).
-DELETE /users/{id} - Remove a user from the system.
+* POST /users/ - Create a new user record.
+* GET /users/ - List all registered users.
+* GET /users/{id} - Retrieve a specific user by ID.
+* PUT /users/{id} - Perform a full update on a user record.
+* PATCH /users/{id} - Perform a partial update (e.g., updating just the email).
+* DELETE /users/{id} - Remove a user from the system.
 
 ### Products Resource
 Implements 6 CRUD operations for managing product inventory and pricing.
@@ -66,3 +66,6 @@ pip install -r requirements.txt
 
 ### 3. Execution
 uvicorn main:app --reload
+
+### UI Overview 
+
