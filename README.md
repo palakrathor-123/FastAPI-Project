@@ -68,11 +68,12 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 ## UI Overview 
+<img width="1275" height="472" alt="Image" src="https://github.com/user-attachments/assets/c87d35d7-2f0c-49eb-9606-2195ca6907f3" />
+
 <img width="1183" height="319" alt="Image" src="https://github.com/user-attachments/assets/cfd14345-ca2b-4256-9d3f-2ba8ea4ec66d" />
 
 <img width="1199" height="307" alt="Image" src="https://github.com/user-attachments/assets/55fe6053-e388-41ac-a77e-55044f60ea27" />
 
-<img width="1275" height="472" alt="Image" src="https://github.com/user-attachments/assets/c87d35d7-2f0c-49eb-9606-2195ca6907f3" />
 
 ## Author
 ### Palak Rathor
